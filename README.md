@@ -1,2 +1,2 @@
 # ai_slidebar
-Multi-LLM slidebar with custom prompts for instant workflows.
+Multi-LLM slidebar with custom prompts for fast-access LLM-workflows.
