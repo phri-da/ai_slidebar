@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# PyInstaller Build-Artefakte
+build/
+dist/
+
+# Lokale Benutzerdaten (werden vom Tool erstellt)
+ai_slidebar.log
+ai_prompts.json
+ai_slidebar_settings.json
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS-spezifisch
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporäre Dateien
+*.tmp
+*.bak

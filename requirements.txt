@@ -1,0 +1,8 @@
+# AI Slidebar - Python Dependencies
+# Tested with Python 3.10+
+
+# Core dependency - WebView for Windows
+pywebview>=5.0
+
+# Build tool (only needed for creating EXE)
+# pyinstaller>=6.0
